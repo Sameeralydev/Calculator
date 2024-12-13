@@ -127,3 +127,16 @@
 .calc-btns button:active{
     background-color: #8d979d;
 }
+.modal-footer button {
+    width: 5vw;
+    height: 6vh;
+    background-color: #E38E49;
+}
+.modal-header button{
+    width: 1vw;
+    height: 2vh;
+}
+.modal-header h5{
+    font-weight: 600;
+    color: red;
+}
